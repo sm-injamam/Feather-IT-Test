@@ -1,0 +1,13 @@
+Questionnaire for Software Quality Assurance(SQA) Engineer Interview
+
+Q1. Explain the steps for Bug Cycle?
+Q2. What is meant by boundary value analysis?
+Q3. What is Agile testing and what is the importance of Agile testing?
+Q4. Explain Low Severity & High Priority Bug?
+Q5. List the basic components of the defect report format.
+Q6. Explain Low Severity & High Priority Bug?
+Q7. How do you take screenshots in Selenium WeDriver?
+Q8. Explain regression and confirmation testing. 
+Q9. Explain how do you arrive at a project estimation?
+Q10. What is the purpose of exit criteria?
+
